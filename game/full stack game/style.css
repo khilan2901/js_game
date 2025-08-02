@@ -1,0 +1,29 @@
+/*body{
+  background-color: black;
+
+}
+#canvas1{
+ position: absolute;
+  border: 3px solid white;
+  width: 800px;
+  height: 700px;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+  */
+html, body {
+ overflow: hidden;
+    margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;   /* Horizontal centering */
+  align-items: center;
+ 
+ 
+}
+#game-container {
+  
+  height: 2400px;
+  width: 700px;
+}
